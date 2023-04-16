@@ -15,3 +15,5 @@ Skills: Languages: Python, MATLAB, Fortran, C, C++, SQL, bash / ML & Scientific:
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icandac&count_private=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icandac&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
