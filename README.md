@@ -16,10 +16,12 @@ Skills: Languages: Python, MATLAB, Fortran, C, C++, SQL, bash / ML & Scientific:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/icandac)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/icandac&show_icons=true)  
+[!GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/icandac&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/icandac)  
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/icandac)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/icandac)  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icandac)](https://github.com/anuraghazra/github-readme-stats)
