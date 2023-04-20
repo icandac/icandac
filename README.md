@@ -9,12 +9,15 @@ Skills: Languages: Python, MATLAB, Fortran, C, C++, SQL, bash / ML & Scientific:
 - 👯 I’m looking to collaborate on energy/commodity trading, algorithmic trading, HFT 
 - 📫 How to reach me: iceyhunandac@gmail.com 
 
+#### Social media links
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/icandac)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ceyhunandac/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/i_ceyhun_a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ICeyhunA1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://web.itu.edu.tr/~andac)  
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icandac&count_private=true&show_icons=true&theme=radical)
+
+#### Tech-stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
