@@ -43,4 +43,4 @@ Skills: Languages: Python, MATLAB, Fortran, C, C++, SQL, bash / ML & Scientific:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=icandac&icon=5&color=11)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=icandac&icon=5&color=11)(https://visitcount.itsvg.in)
