@@ -17,6 +17,8 @@ Skills: Languages: Python, MATLAB, Fortran, C, C++, SQL, bash / ML & Scientific:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icandac&count_private=true&show_icons=true&theme=radical)
 
+(note: this counter doesn't take issues and PRs in private repos into consideration, which is an unsolved bug, fyi.)
+
 #### Tech-stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
