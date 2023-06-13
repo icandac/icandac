@@ -15,9 +15,9 @@ Skills: Languages: Python, MATLAB, Fortran, C, C++, SQL, bash / ML & Scientific:
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icandac&count_private=true&show_icons=true&theme=radical) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icandac&count_private=true&show_icons=true&theme=radical) 
 
-(note: this counter doesn't take issues and PRs in private repos into consideration properly, which is an unsolved bug, fyi.)
+(note: this counter doesn't take issues and PRs in private repos into consideration properly, which is an unsolved bug, fyi.)-->
 
 #### Tech-stack
 
