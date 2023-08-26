@@ -6,8 +6,11 @@ always striving to find balance in my life. I'd love to hear your thoughts and c
 Skills: 
 
 Languages: Python, MATLAB, Fortran, C, C++, SQL, bash 
+
 ML & Scientific: numpy, scipy, pandas, scikit-learn, jupyter-notebook, Maple, Mathematica, Excel 
+
 Visualization: matplotlib, seaborn, Gnuplot / Dev. Tools: Git, Latex, Markdown, SSH, SLURM / OS & Administration: GNU-Linux, Unix/MacOS, Windows
+
 
 - 🌱 I’m currently learning Financial Modelling, Financial Derivatives, Algorithmic Trading 
 - 👯 I’m looking to collaborate on energy/commodity trading, algorithmic trading, HFT 
