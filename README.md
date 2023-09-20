@@ -14,7 +14,8 @@ Visualization: matplotlib, seaborn, Gnuplot / Dev. Tools: Git, Latex, Markdown, 
 
 - 🌱 I’m currently learning Financial Modelling, Financial Derivatives, Algorithmic Trading 
 - 👯 I’m looking to collaborate on energy/commodity trading, algorithmic trading, HFT 
-- 📫 How to reach me: iceyhunandac@gmail.com 
+- 📫 How to reach me: iceyhunandac@gmail.com
+- Keep following my profile for updates on my protfolio!
 
 #### Social media links
 
