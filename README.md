@@ -1,13 +1,13 @@
 ### Hey! This is Ceyhun speaking!
-#### I am a Quantitative Analyst with a physics background.
-Welcome! I'm a passionate quantitative analyst and researcher with a background in physics. Whether I'm diving into complex numerical models or exploring my interests outside of work, I'm
-always striving to find balance in my life. I'd love to hear your thoughts and chat about anything that interests you!
+#### I am a Quantitative Analyst with a background in physics.
+I'm a passionate quantitative analyst and researcher with a background in physics. Whether I'm diving into complex numerical models or exploring my interests outside of work, I'm
+always striving to find balance in my life. I'd love to hear your thoughts and chat about anything that interests you in my profile!
 
 Skills: 
 
-Languages: Python, MATLAB, Fortran, C, C++, SQL, bash 
+Languages: Python, MATLAB, Fortran, C, C++, SQL, bash
 
-ML & Scientific: numpy, scipy, pandas, scikit-learn, jupyter-notebook, Maple, Mathematica, Excel 
+ML & Scientific: numpy, scipy, pandas, scikit-learn, jupyter-notebook, Maple, Mathematica, Excel
 
 Visualization: matplotlib, seaborn, Gnuplot / Dev. Tools: Git, Latex, Markdown, SSH, SLURM / OS & Administration: GNU-Linux, Unix/MacOS, Windows
 
