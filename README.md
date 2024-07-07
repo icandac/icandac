@@ -9,7 +9,7 @@ Languages: Python, MATLAB, Fortran, C, C++, SQL, bash
 
 ML & Scientific: numpy, scipy, pandas, scikit-learn, jupyter-notebook, Maple, Mathematica, Excel
 
-Visualization: matplotlib, seaborn, Gnuplot / Dev. Tools: Git, Latex, Markdown, SSH, SLURM / OS & Administration: GNU-Linux, Unix/MacOS, Windows
+Visualization: matplotlib, seaborn, Gnuplot / Dev. Tools: Git, docker, SSH, SLURM, Latex, Markdown / OS & Administration: GNU-Linux, Unix/MacOS, Windows
 
 
 - 🌱 I’m currently learning Financial Modelling, Financial Derivatives, Algorithmic Trading 
