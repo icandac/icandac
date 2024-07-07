@@ -7,7 +7,7 @@ Skills:
 
 Languages: Python, MATLAB, Fortran, C, C++, SQL, bash
 
-ML & Scientific: numpy, scipy, pandas, scikit-learn, jupyter-notebook, Maple, Mathematica, Excel
+ML & Scientific: numpy, scipy, pandas, scikit-learn, pytorch, tensor-flow, jupyter-notebook, Maple, Mathematica, Excel
 
 Visualization: matplotlib, seaborn, Gnuplot / Dev. Tools: Git, docker, SSH, SLURM, Latex, Markdown / OS & Administration: GNU-Linux, Unix/MacOS, Windows
 
