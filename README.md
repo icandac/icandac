@@ -1,5 +1,5 @@
 ### Hey! This is Ceyhun speaking!
-#### I am a Quantitative Analyst with a background in physics.
+#### I am a Quantitative Researcher with a background in physics.
 I'm a passionate quantitative analyst and researcher with a background in physics. Whether I'm diving into complex numerical models or exploring my interests outside of work, I'm
 always striving to find balance in my life. I'd love to hear your thoughts and chat about anything that interests you in my profile!
 
