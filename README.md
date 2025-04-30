@@ -1,11 +1,11 @@
 ### Hey! This is Ceyhun speaking!
-#### I am a Quantitative Researcher with a background in physics.
-I'm a passionate quantitative analyst and researcher with a background in physics. Whether I'm diving into complex numerical models or exploring my interests outside of work, I'm
+#### I am a Quant with a background in physics.
+I'm a passionate quantitative analyst and researcher (and maybe trader, who knows?!) with a background in physics. Whether I'm diving into complex numerical models or exploring my interests outside of work, I'm
 always striving to find balance in my life. I'd love to hear your thoughts and chat about anything that interests you in my profile!
 
 Skills: 
 
-Languages: Python, MATLAB, Fortran, C, C++, SQL, bash
+Languages: Python, Fortran, C, C++, SQL, bash
 
 ML & Scientific: numpy, scipy, pandas, scikit-learn, pytorch, tensor-flow, jupyter-notebook, Maple, Mathematica, Excel
 
@@ -16,6 +16,7 @@ Visualization: matplotlib, seaborn, Gnuplot / Dev. Tools: Git, docker, SSH, SLUR
 - 👯 I’m looking to collaborate on software engineering in general, forefront/academic level research in physics/astrophysics and maths, energy/commodity trading, algorithmic trading, and anything related to quantitative finance in general!
 - 📫 How to reach me: iceyhunandac@gmail.com
 - Keep following my profile for updates on my protfolio!
+- Have a look at my latest lib [Gosha](http://github.com/icandac/systematic_trading_tester/)
 
 #### Social media links
 
