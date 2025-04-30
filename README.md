@@ -16,7 +16,7 @@ Visualization: matplotlib, seaborn, Gnuplot / Dev. Tools: Git, docker, SSH, SLUR
 - 👯 I’m looking to collaborate on software engineering in general, forefront/academic level research in physics/astrophysics and maths, energy/commodity trading, algorithmic trading, and anything related to quantitative finance in general!
 - 📫 How to reach me: iceyhunandac@gmail.com
 - Keep following my profile for updates on my protfolio!
-- Have a look at my latest lib [Gosha](http://github.com/icandac/systematic_trading_tester/)
+- Have a look at my latest lib [Gosha](http://github.com/icandac/systematic_trading_tester/) aiming to test systematic trading algorithms quickly.
 
 #### Social media links
 
